@@ -2,7 +2,7 @@
 
 Pequeña aplicación web (CRUD) de gestión de personas, la cual consta de un backend en Spring Boot y un pequeño Frontend en Ionic, la aplicación se conecta mediante una arquitectura tipo REST.
 
-## Pasos para ejecutar el proyectos:
+## Pasos para ejecutar el proyecto:
 
 - Clonar el proyecto en tu máquina local
 

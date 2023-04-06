@@ -10,6 +10,7 @@ Pequeña aplicación web (CRUD) de gestión de personas, la cual consta de un ba
  git https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Spring
 ```
 - Dirigirse a la [carpeta del proyecto](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Spring/tree/master/People-Control-Spring-Boot)
+- Importar el [script de base de datos](https://github.com/Juan-Carlos-Estevez-Vargas/Simple-Projects-Spring/blob/master/People-Control-Spring-Boot/people_control.sql) en algún SGBD de MySQL como XAMPP o MySQL Workbench y levantar el servicio
 - Abrir el proyecto algún editor de código o IDE (Spring Tool Suite, Eclipse, NetBeans, Visual Studio Code, Sublime Text, etc).
 - Correr la aplicación como un proyecto Spring Boot
 
